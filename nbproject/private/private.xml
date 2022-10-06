@@ -5,7 +5,7 @@
         <group>
             <file>file:/C:/Users/22282123/Fundamentos-da-Progamação/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/ClinicaApp.java</file>
             <file>file:/C:/Users/22282123/Fundamentos-da-Progamação/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/ui/HomeFrame.java</file>
-            <file>file:/C:/Users/22282123/Fundamentos-da-Progamação/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/testes/TesteDAO.java</file>
+            <file>file:/C:/Users/22282123/Fundamentos-da-Progamação/eclipse-workspace/sistema-agendamento/src/br/senai/sp/jandira/dao/PlanoDeSaudeDAO.java</file>
         </group>
     </open-files>
 </project-private>
