@@ -1,0 +1,4 @@
+101;Amil;Bronze
+102;Bradesco;Ouro
+103;Notridame;Prata
+104;Amil;Prata

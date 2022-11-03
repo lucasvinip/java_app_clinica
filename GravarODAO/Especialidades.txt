@@ -1,0 +1,5 @@
+100;Cardiologista;Cuida do coração
+101;Fisoterapia;Atua no tratamento e prevenção de doenças e lesões
+102;Clinico geral;O profissional faz diagnósticos, pede exames, realiza cirurgias e prescreve medicamentos.
+103;aa;aa
+104;aa;aa
