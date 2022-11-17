@@ -177,6 +177,9 @@
               <Image iconType="3" name="/br/senai/sp/jandira/imagens/diskette.png"/>
             </Property>
           </Properties>
+          <AccessibilityProperties>
+            <Property name="AccessibleContext.accessibleDescription" type="java.lang.String" value="Salvar a especialidade"/>
+          </AccessibilityProperties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonSalvarActionPerformed"/>
           </Events>
@@ -195,6 +198,9 @@
               <Image iconType="3" name="/br/senai/sp/jandira/imagens/cancelar.png"/>
             </Property>
           </Properties>
+          <AccessibilityProperties>
+            <Property name="AccessibleContext.accessibleDescription" type="java.lang.String" value="Cancelar a especialidade"/>
+          </AccessibilityProperties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonCancelarActionPerformed"/>
           </Events>
