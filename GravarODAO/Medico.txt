@@ -1,1 +1,2 @@
-101;aa;zzz;aaa
+102;Lucas Vinicius;l.vinicius1577@gmail.com;123456;11975936195
+102;Pereira;pereirasilva564@gmail.com;134976;11975846031
